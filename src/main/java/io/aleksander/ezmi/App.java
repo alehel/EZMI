@@ -1,9 +1,5 @@
 package io.aleksander.ezmi;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main(String[] args) {

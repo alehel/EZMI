@@ -1,4 +1,4 @@
-package io.aleksander;
+package io.aleksander.ezmi;
 
 import java.io.IOException;
 import java.nio.file.Files;
