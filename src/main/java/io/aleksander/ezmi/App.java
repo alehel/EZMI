@@ -14,6 +14,7 @@ public class App {
 
     ZMachine zMachine = new ZMachine(storyFile);
 
-    System.out.println("Story file is running on version " + zMachine.getVersion() + " of the Z-machine.");
+    System.out.println("Running version " + zMachine.getVersion() + " of the Z-machine.");
+    System.out.println("The story file size is " + zMachine.getStoryLength());
   }
 }
